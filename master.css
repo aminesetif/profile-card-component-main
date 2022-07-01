@@ -31,7 +31,6 @@ body{
 .main{
     height: auto;
     width: 340px;
-    padding:10px;
     background-color: white;
     overflow: hidden;
     border-radius: 15px;
